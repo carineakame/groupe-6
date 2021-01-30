@@ -1,0 +1,154 @@
+Travail de MINIMA ADOUMKOUA DIEUDONNE
+------------------
+LOC 
+------------------
+Total LOC: 264
+
+Classes LOC:
+
+Une partie de Gestion: 264
+
+Packages LOC:
+
+src: 264
+private: 0
+javaapplication3: 0
+classes: 0
+nbproject: 0
+
+------------------
+Lines with imports 
+------------------
+Total imports: 3
+
+Classes imports:
+
+Une partie de Gestion: 3
+
+Packages imports:
+
+src: 2
+private: 0
+javaapplication3: 0
+classes: 0
+nbproject: 0
+
+------------------
+Blank lines
+------------------
+Total blank lines: 48
+
+Classes blank lines:
+
+Une partie de Gestion: 48
+
+Packages blank lines:
+
+src: 48
+private: 0
+javaapplication3: 0
+classes: 0
+nbproject: 0
+
+------------------
+Classes count
+------------------
+Total classes: 1
+
+Packages with the biggest number of classes:
+
+src: 1
+private: 0
+javaapplication3: 0
+classes: 0
+nbproject: 0
+
+------------------
+Methods count
+------------------
+Total methods: 3
+
+Classes with the biggest number of methods:
+
+Une partie de Gestion: 3
+
+------------------
+Cyclomatic complexity
+------------------
+Average cyclomatic complexity: 8.4
+
+Methods with the highest cyclomatic complexity:
+
+Un partie de Gestion::main: 45
+Un partie de Gestion::getInt: 4
+Un partie de Gestion::getRayon: 4
+Un partie de Gestion::getLine: 2
+Un partie de Gestion::getDouble: 2
+
+------------------
+LCOM
+------------------
+
+------------------
+Average LCOM 1: 0
+------------------
+
+Classes with the highest LCOM 1:
+
+Un partie de Gestion: 0
+
+Packages with the highest average LCOM 1:
+
+src: 0
+private: 0
+javaapplication3: 0
+classes: 0
+nbproject: 0
+
+------------------
+Average LCOM 2: 0.0
+------------------
+
+Classes with the highest LCOM 2:
+
+Un partie de Gestion: 0.0
+
+Packages with the highest average LCOM 2:
+
+src: 0.0
+private: 0.0
+javaapplication3: 0.0
+classes: 0.0
+nbproject: 0.0
+
+------------------
+Average LCOM 3: 0.0
+------------------
+
+Classes with the highest LCOM 3:
+
+Un partie de Gestion: 0.0
+
+Packages with the highest average LCOM 3:
+
+src: 0.0
+private: 0.0
+javaapplication3: 0.0
+classes: 0.0
+nbproject: 0.0
+
+------------------
+Average LCOM 4: 1
+------------------
+
+Classes with the highest LCOM 4:
+
+Un partie de Gestion: 1
+
+Packages with the highest average LCOM 4:
+
+src: 1
+private: 0
+javaapplication3: 0
+classes: 0
+nbproject: 0
